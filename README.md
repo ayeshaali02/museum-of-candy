@@ -25,10 +25,10 @@ A vibrant, responsive single-page landing website built using **HTML**, **CSS**,
 
 ## 🗂️ File Structure
 
-  project-root/
-  ├── index.html # Main HTML structure
-  ├── app.css # Custom CSS for layout and design
-  └── imgs/ # (Expected folder) Contains hand2.png, milk.png, gumball.png, sprinkles.png, lolli_icon.png
+  <pre><code>museum-of-candy/ 
+   ├── index.html 
+   ├── app.css 
+   └── imgs/ </code></pre>
 
 
 ## 🧠 How It Works
