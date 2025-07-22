@@ -14,7 +14,8 @@ A vibrant, responsive single-page landing website built using **HTML**, **CSS**,
 
 ## 📸 Screenshots
 
-> Include some screenshots here (optional).
+![Screenshot of Museum of Candy](imgs/screenshot-1.png)
+![Screenshot of Museum of Candy](imgs/screenshot-2.png)
 
 ## 🚀 Technologies Used
 
